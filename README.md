@@ -67,6 +67,7 @@ app/src/main/res/
 │   └── bg_task_item.xml      # Estilo: Fundo branco e bordas para os itens da lista
 └── values/
     └── colors.xml            # Paleta de Cores: Definição do tema "Clean" (Azul/Cinza)
+```
 ---
 
 ## 🚀 Como rodar o projeto
