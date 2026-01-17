@@ -16,9 +16,9 @@ O aplicativo atende a todos os requisitos propostos no desafio:
 
 ## 📱 Demonstração
 
-> **[ESPAÇO RESERVADO PARA VÍDEO DE DEMONSTRAÇÃO]**
->
-> *Em breve: Uma demonstração visual das funcionalidades de adicionar, rolar a lista, remover itens e a persistência dos dados.*
+https://github.com/user-attachments/assets/4bc78983-7ce6-42e1-841d-b7e0a95d9886
+
+> *Uma demonstração visual das funcionalidades de adicionar, rolar a lista, remover itens e a persistência dos dados.*
 
 ---
 
